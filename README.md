@@ -11,5 +11,6 @@ allprojects {
   Step 2. Add the dependency
   
   dependencies {
-	        implementation 'com.github.DD4You:HouseLoadingView-Vinay:1.0'
+	        
+		implementation 'com.github.DD4You:HouseLoadingView-Vinay:1.0'
 	}
